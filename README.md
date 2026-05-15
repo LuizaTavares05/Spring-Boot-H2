@@ -53,24 +53,6 @@ Aqui nós iremos submeter as soluções dos desafios propostos, praticando conce
    ```
 
 ---
-<p align="center">
-  <strong>Link para nosso site:</strong><br>
-  <a href="https://prompt-delas.netlify.app/" target="_blank">
-    https://prompt-delas.netlify.app/
-  </a>
-</p>
-
-<p align="center">
-   <strong>Relatórios de Acessibilidade — Google Lighthouse (Mobile & Desktop):</strong>
-</p>
-
-<p align="center">
-  <img src="./img/acessibilidadeCell.png" alt="Print dos dados de acessibilidade" width="100%">
-</p>
-
-<p align="center">
-  <img src="./img/acessibilidadeNote.png" alt="Print dos dados de acessibilidade" width="100%">
-</p>
 
 <p align="center">
  <strong>Grupo 3 — Serratec Residência · Sala 34</strong>
